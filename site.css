@@ -1,0 +1,40 @@
+.green {
+    color: green;
+}
+
+.yellow {
+    color: yellow;
+}
+
+.maroon {
+    color: maroon;
+}
+
+.indigo {
+    color: indigo;
+}
+
+.orange {
+    color: orange;
+}
+
+.chartreuse {
+    color: chartreuse;
+}
+
+.purple {
+    color: purple;
+}
+
+.deepskyblue {
+    color: deepskyblue;
+}
+
+
+body {
+    background-color: darkslategrey;
+}
+
+li {
+    background-color: midnightblue;
+}
